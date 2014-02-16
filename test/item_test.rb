@@ -1,9 +1,9 @@
 require_relative 'helper'
 
 
-class JSON_Parser_Test < MiniTest::Test
+class Item_Test < MiniTest::Test
   def setup
-    @file = File.read('./sample.xml')
+    @file = File.read('./sample_item.xml')
     @item = FDDB::Item.new @file
   end
 

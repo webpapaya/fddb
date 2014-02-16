@@ -8,8 +8,9 @@ class FDDB_TEST < MiniTest::Test
 
   #def test_implementation_get_item
   #  assert (@fddb.get_item @id).class == String
+  #  assert (@fddb.search 'banana').class == String
   #end
-  #
+
   #def test_http_request
   #  assert @fddb.send(:make_http_request, :item, @id).class == String
   #  assert @fddb.send(:make_http_request, :item, @id, 'apikey' => 1, 'lang' => 'en').class == String

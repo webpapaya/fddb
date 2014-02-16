@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<result>
+<item>
+<id>19571</id>
+<markedfordeletion>0</markedfordeletion>
+<thumbsrc><![CDATA[]]></thumbsrc>
+<foodrank>3.5039</foodrank>
+<ratings_num>2</ratings_num>
+<ratings_avg_perc>62</ratings_avg_perc>
+<producerid>1221</producerid>
+<groupid>9</groupid>
+<productcode_ean><![CDATA[404491090101]]></productcode_ean>
+<datasource>8</datasource>
+<data>
+<amount>100</amount>
+<amount_measuring_system><![CDATA[Mass (gram)]]></amount_measuring_system>
+<aggregate_state><![CDATA[solid]]></aggregate_state>
+<kj>1290</kj>
+<kcal>308</kcal>
+<fat_gram>6.3</fat_gram>
+<fat_sat_gram>-1</fat_sat_gram>
+<kh_gram>22.7</kh_gram>
+<sugar_gram>3.6</sugar_gram>
+<protein_gram>42</protein_gram>
+<df_gram>1.1</df_gram>
+<water_gram>70</water_gram>
+<alcohol_gram>0</alcohol_gram>
+<v_a_mg></v_a_mg>
+<v_b1_mg>2.20</v_b1_mg>
+<v_b2_mg>2.80</v_b2_mg>
+<v_b6_mg>2.80</v_b6_mg>
+<v_b12_mg>0.005000</v_b12_mg>
+<v_c_mg>160.00</v_c_mg>
+<v_d_mg></v_d_mg>
+<v_e_mg>0.02</v_e_mg>
+<m_eisen_mg></m_eisen_mg>
+<m_calcium_mg></m_calcium_mg>
+<m_magnesium_mg></m_magnesium_mg>
+<m_natrium_mg>200.00</m_natrium_mg>
+<m_zink_mg></m_zink_mg>
+<m_kupfer_mg></m_kupfer_mg>
+<m_schwefel_mg></m_schwefel_mg>
+<m_mangan_mg></m_mangan_mg>
+<m_chlor_mg></m_chlor_mg>
+<m_fluor_mg></m_fluor_mg>
+<m_kalium_mg></m_kalium_mg>
+<m_phosphor_mg></m_phosphor_mg>
+</data>
+<servings>
+<serving>
+<serving_id>38227</serving_id>
+<name><![CDATA[100 g]]></name>
+<weight_gram>100</weight_gram>
+</serving>
+<serving>
+<serving_id>38228</serving_id>
+<name><![CDATA[1 Glas]]></name>
+<weight_gram>250</weight_gram>
+</serving>
+<serving>
+<serving_id>486918</serving_id>
+<name><![CDATA[1 Portion]]></name>
+<weight_gram>25</weight_gram>
+</serving>
+</servings>
+<content>
+<celement>
+<ctype>3</ctype>
+<content><![CDATA[Niacin: 36,0mg ( 200 )
+Vitamin E 20,0mg ( 200 )
+Pantothensäure: 12,0mg ( 200 )
+Vitamin B6: 4,0mg 
+Vitamin B2: 3,2mg ( 200 )
+Vitamin B1: 2,8mg  ( 200 )
+Folsäure: 400,0mcg(  200 )
+Biotin: 0,3mg ( 200 )
+Vitamin B12: 2,0mcg ( 200 )
+
+Aminosäureprofil pro 100g reinem Eiweiß:
+L-Leucin: 10,4g
+L-Isoleucin: 5,1g
+L-Lysin: 8,2g
+L-Methionin: 2,5g
+L-Phenylalanin: 4,2g
+Threonin: 4,4g
+L-Thryptophan: 2,0g
+L-Valin: 5,9g
+L-Histidin: 2,5g
+L-Arginin: 3,5g
+L-Cystin: 1,1g
+L-Glycin: 1,8g
+L-Alanin: 3,5g
+L-Serin: 5,5g
+L-Prolin: 7,5g
+L-Tyrosin: 4,6g
+L-Asparaginsäure: 8,4g
+L-Glutaminsäure: 18,9g
+
+Zutaten: Milcheiweiß, Molkeneiweiß, Aroma, Verdickungsmittel Xanthan, Weizenstärke, Süßstoffe: Acesulfam K, Aspartam, Saccharin-Natrium und Natriumcyclamat; Vitamin B1, Folsäure, Biotin, Niacin, Vitamin E, Pantothensäure, Vitamin B6, Vitamin B2, Vitamin B1, Folsäure, Biotin, Vitamin B12, Farbstoff Beta Carotin. Kann Spuren von Ei, Soja und Lupinen enthalten.
+
+ 
+Empfehlung des Herstellers: Pro Portion 25 Gramm (3 Esslöffel ) mit 250ml Wasser oder fettarmer Milch mixen. 1 - 3 Portionen über den Tag verteilt nehmen. Besonders empfehlenswert ist die Verwendung nach dem Training.]]></content>
+</celement>
+</content>
+<description>
+<name><![CDATA[Eiweiss Shake]]></name>
+<option><![CDATA[Banana-Kirsch]]></option>
+<producer><![CDATA[Energy Body]]></producer>
+<group><![CDATA[Energy Drinks]]></group>
+<imagedescription><![CDATA[ ()]]></imagedescription>
+</description>
+</item>
+<item>
+<id>29822</id>
+<markedfordeletion>0</markedfordeletion>
+<thumbsrc><![CDATA[http://fddb.info/static/db/400/210/DHE97MKDGR7R54R9RLZCS5ZR_205x136.jpg]]></thumbsrc>
+<foodrank>1.4836</foodrank>
+<ratings_num>0</ratings_num>
+<ratings_avg_perc>0</ratings_avg_perc>
+<producerid>1141</producerid>
+<groupid>111</groupid>
+<productcode_ean><![CDATA[7489270298711]]></productcode_ean>
+<datasource>8</datasource>
+<data>
+<amount>100</amount>
+<amount_measuring_system><![CDATA[Mass (gram)]]></amount_measuring_system>
+<aggregate_state><![CDATA[solid]]></aggregate_state>
+<kj>1675</kj>
+<kcal>400</kcal>
+<fat_gram>3.3</fat_gram>
+<fat_sat_gram>-1</fat_sat_gram>
+<kh_gram>10</kh_gram>
+<protein_gram>80</protein_gram>
+<df_gram>0</df_gram>
+<water_gram>0</water_gram>
+<alcohol_gram>0</alcohol_gram>
+<v_a_mg></v_a_mg>
+<v_b1_mg></v_b1_mg>
+<v_b2_mg></v_b2_mg>
+<v_b6_mg></v_b6_mg>
+<v_b12_mg></v_b12_mg>
+<v_c_mg></v_c_mg>
+<v_d_mg></v_d_mg>
+<v_e_mg></v_e_mg>
+<m_eisen_mg></m_eisen_mg>
+<m_calcium_mg></m_calcium_mg>
+<m_magnesium_mg></m_magnesium_mg>
+<m_natrium_mg></m_natrium_mg>
+<m_zink_mg></m_zink_mg>
+<m_kupfer_mg></m_kupfer_mg>
+<m_schwefel_mg></m_schwefel_mg>
+<m_mangan_mg></m_mangan_mg>
+<m_chlor_mg></m_chlor_mg>
+<m_fluor_mg></m_fluor_mg>
+<m_kalium_mg></m_kalium_mg>
+<m_phosphor_mg></m_phosphor_mg>
+</data>
+<servings>
+<serving>
+<serving_id>58718</serving_id>
+<name><![CDATA[100 g]]></name>
+<weight_gram>100</weight_gram>
+</serving>
+<serving>
+<serving_id>58719</serving_id>
+<name><![CDATA[1 Me&szlig;becher]]></name>
+<weight_gram>30</weight_gram>
+</serving>
+</servings>
+<content>
+</content>
+<description>
+<name><![CDATA[100% Whey]]></name>
+<option><![CDATA[Strawberry Banana]]></option>
+<producer><![CDATA[Optimum Nutrition]]></producer>
+<group><![CDATA[Nahrungsergänzung]]></group>
+<imagedescription><![CDATA[100% Whey, Strawberry Banana (hahi67)]]></imagedescription>
+</description>
+</item>
+<item>
+<id>126879</id>
+<markedfordeletion>0</markedfordeletion>
+<thumbsrc><![CDATA[http://fddb.info/static/db/400/420/MQQNFAVQ90TMNRV26R47HRYC_205x136.jpg]]></thumbsrc>
+<foodrank>1.2074</foodrank>
+<ratings_num>6</ratings_num>
+<ratings_avg_perc>66</ratings_avg_perc>
+<producerid>523</producerid>
+<groupid>94</groupid>
+<productcode_ean><![CDATA[4260188785021]]></productcode_ean>
+<datasource>8</datasource>
+<data>
+<amount>100</amount>
+<amount_measuring_system><![CDATA[Mass (gram)]]></amount_measuring_system>
+<aggregate_state><![CDATA[solid]]></aggregate_state>
+<kj>1570</kj>
+<kcal>375</kcal>
+<fat_gram>12</fat_gram>
+<fat_sat_gram>-1</fat_sat_gram>
+<kh_gram>55.1</kh_gram>
+<sugar_gram>5.7</sugar_gram>
+<protein_gram>12.2</protein_gram>
+<df_gram>10</df_gram>
+<water_gram>0</water_gram>
+<alcohol_gram>0</alcohol_gram>
+<v_a_mg></v_a_mg>
+<v_b1_mg></v_b1_mg>
+<v_b2_mg></v_b2_mg>
+<v_b6_mg></v_b6_mg>
+<v_b12_mg></v_b12_mg>
+<v_c_mg></v_c_mg>
+<v_d_mg></v_d_mg>
+<v_e_mg></v_e_mg>
+<m_eisen_mg></m_eisen_mg>
+<m_calcium_mg></m_calcium_mg>
+<m_magnesium_mg></m_magnesium_mg>
+<m_natrium_mg>10.00</m_natrium_mg>
+<m_zink_mg></m_zink_mg>
+<m_kupfer_mg></m_kupfer_mg>
+<m_schwefel_mg></m_schwefel_mg>
+<m_mangan_mg></m_mangan_mg>
+<m_chlor_mg></m_chlor_mg>
+<m_fluor_mg></m_fluor_mg>
+<m_kalium_mg></m_kalium_mg>
+<m_phosphor_mg></m_phosphor_mg>
+</data>
+<servings>
+<serving>
+<serving_id>248127</serving_id>
+<name><![CDATA[100 g]]></name>
+<weight_gram>100</weight_gram>
+</serving>
+<serving>
+<serving_id>248128</serving_id>
+<name><![CDATA[1 Portion]]></name>
+<weight_gram>35</weight_gram>
+</serving>
+</servings>
+<content>
+<celement>
+<ctype>4</ctype>
+<content><![CDATA[Ich war doch etwas enttäuscht, schmeckt leicht bitter und die Banane muss man suchen.]]></content>
+</celement>
+<celement>
+<ctype>4</ctype>
+<content><![CDATA[Mein Lieblingsfrühstück rund ums Jahr aber besonders im Winter oder wenn ich etwas brauche, was mich lange satt hält. Ganz einfache Zubereitung in der Microwelle. Schmeckt einfach super lecker!!]]></content>
+</celement>
+<celement>
+<ctype>4</ctype>
+<content><![CDATA[unglaublich lecker und lange lange sättigend. super Mischung. 
+wie warmer Schokopudding zum Frühstück. und die Banane da drin macht mich immer ganz happy.]]></content>
+</celement>
+<celement>
+<ctype>4</ctype>
+<content><![CDATA[Na ja, es geht so. Mir ist es zu wenig schokoladig und Banane wurde auch eher sparsam verwendet. Haferflocken mit frischer Banane und etwas Kakaopulver ergibt ein viel besseres Porridge! ]]></content>
+</celement>
+<celement>
+<ctype>4</ctype>
+<content><![CDATA[Super lecker. Macht satt und schmeckt! ]]></content>
+</celement>
+<celement>
+<ctype>4</ctype>
+<content><![CDATA[mir ist es zu wenig süß, habe mir noch 10 Gramm Honig untergemengt. Aber dann wird es recht lecker. Von der Banane würde ich mir mehr wünschen (das könnte evtl. die Zuckerzugabe unterbinden), da diese im aufgeweichten Zustand echt lecker sind. 
+Achtung bei den To-Go (40g) Packungen. Spätestestens beim 2x für eine Minute in der Mikrowelle erhitzen läuft der Becher über. Also unbedingt daneben stehen bleiben. ]]></content>
+</celement>
+</content>
+<description>
+<name><![CDATA[Noats Porridge]]></name>
+<option><![CDATA[Banane-Schoko]]></option>
+<producer><![CDATA[Mymüsli]]></producer>
+<group><![CDATA[Müsli]]></group>
+<imagedescription><![CDATA[Noats Banane-Schoko, Banane-Schoko (Conny21m)]]></imagedescription>
+</description>
+</item>
+<item>
+<id>120503</id>
+<markedfordeletion>0</markedfordeletion>
+<thumbsrc><![CDATA[]]></thumbsrc>
+<foodrank>1.0574</foodrank>
+<ratings_num>0</ratings_num>
+<ratings_avg_perc>0</ratings_avg_perc>
+<producerid>333</producerid>
+<groupid>111</groupid>
+<productcode_ean><![CDATA[]]></productcode_ean>
+<datasource>8</datasource>
+<data>
+<amount>100</amount>
+<amount_measuring_system><![CDATA[Mass (gram)]]></amount_measuring_system>
+<aggregate_state><![CDATA[solid]]></aggregate_state>
+<kj>1491</kj>
+<kcal>356</kcal>
+<fat_gram>1.4</fat_gram>
+<fat_sat_gram>-1</fat_sat_gram>
+<kh_gram>7.5</kh_gram>
+<sugar_gram>5.2</sugar_gram>
+<protein_gram>77.7</protein_gram>
+<df_gram>1.2</df_gram>
+<water_gram>0</water_gram>
+<alcohol_gram>0</alcohol_gram>
+<v_a_mg></v_a_mg>
+<v_b1_mg></v_b1_mg>
+<v_b2_mg></v_b2_mg>
+<v_b6_mg></v_b6_mg>
+<v_b12_mg></v_b12_mg>
+<v_c_mg></v_c_mg>
+<v_d_mg></v_d_mg>
+<v_e_mg></v_e_mg>
+<m_eisen_mg></m_eisen_mg>
+<m_calcium_mg></m_calcium_mg>
+<m_magnesium_mg></m_magnesium_mg>
+<m_natrium_mg></m_natrium_mg>
+<m_zink_mg></m_zink_mg>
+<m_kupfer_mg></m_kupfer_mg>
+<m_schwefel_mg></m_schwefel_mg>
+<m_mangan_mg></m_mangan_mg>
+<m_chlor_mg></m_chlor_mg>
+<m_fluor_mg></m_fluor_mg>
+<m_kalium_mg></m_kalium_mg>
+<m_phosphor_mg></m_phosphor_mg>
+</data>
+<servings>
+<serving>
+<serving_id>235808</serving_id>
+<name><![CDATA[1 Messl&ouml;ffel]]></name>
+<weight_gram>30</weight_gram>
+</serving>
+<serving>
+<serving_id>235807</serving_id>
+<name><![CDATA[100 g]]></name>
+<weight_gram>100</weight_gram>
+</serving>
+</servings>
+<content>
+</content>
+<description>
+<name><![CDATA[Hypro Protein Deluxe]]></name>
+<option><![CDATA[Strawberry-Banana]]></option>
+<producer><![CDATA[All Stars Fitness Products]]></producer>
+<group><![CDATA[Nahrungsergänzung]]></group>
+<imagedescription><![CDATA[ ()]]></imagedescription>
+</description>
+</item>
+<item>
+<id>159772</id>
+<markedfordeletion>0</markedfordeletion>
+<thumbsrc><![CDATA[http://fddb.info/static/db/302/G6BEZYAUM5SEFLL4U76LUA0D_205x136.jpg]]></thumbsrc>
+<foodrank>0.9522</foodrank>
+<ratings_num>0</ratings_num>
+<ratings_avg_perc>0</ratings_avg_perc>
+<producerid>1719</producerid>
+<groupid>111</groupid>
+<productcode_ean><![CDATA[63651423]]></productcode_ean>
+<datasource>8</datasource>
+<data>
+<amount>100</amount>
+<amount_measuring_system><![CDATA[Volume (ml)]]></amount_measuring_system>
+<aggregate_state><![CDATA[fluid]]></aggregate_state>
+<kj>1673</kj>
+<kcal>400</kcal>
+<fat_gram>6.7</fat_gram>
+<fat_sat_gram>3.3</fat_sat_gram>
+<kh_gram>13.3</kh_gram>
+<sugar_gram>6.7</sugar_gram>
+<cholesterol_mg>82.5</cholesterol_mg>
+<protein_gram>69.3</protein_gram>
+<df_gram>-1</df_gram>
+<water_gram>0</water_gram>
+<alcohol_gram>0</alcohol_gram>
+<v_a_mg></v_a_mg>
+<v_b1_mg></v_b1_mg>
+<v_b2_mg></v_b2_mg>
+<v_b6_mg></v_b6_mg>
+<v_b12_mg></v_b12_mg>
+<v_c_mg></v_c_mg>
+<v_d_mg></v_d_mg>
+<v_e_mg></v_e_mg>
+<m_eisen_mg></m_eisen_mg>
+<m_calcium_mg></m_calcium_mg>
+<m_magnesium_mg></m_magnesium_mg>
+<m_natrium_mg>135.30</m_natrium_mg>
+<m_zink_mg></m_zink_mg>
+<m_kupfer_mg></m_kupfer_mg>
+<m_schwefel_mg></m_schwefel_mg>
+<m_mangan_mg></m_mangan_mg>
+<m_chlor_mg></m_chlor_mg>
+<m_fluor_mg></m_fluor_mg>
+<m_kalium_mg>422.9</m_kalium_mg>
+<m_phosphor_mg></m_phosphor_mg>
+</data>
+<servings>
+<serving>
+<serving_id>310601</serving_id>
+<name><![CDATA[1 Portion]]></name>
+<weight_gram>30</weight_gram>
+</serving>
+<serving>
+<serving_id>310602</serving_id>
+<name><![CDATA[1 Becher]]></name>
+<weight_gram>43</weight_gram>
+</serving>
+<serving>
+<serving_id>310603</serving_id>
+<name><![CDATA[1 Glas]]></name>
+<weight_gram>200</weight_gram>
+</serving>
+</servings>
+<content>
+</content>
+<description>
+<name><![CDATA[Whey Protein]]></name>
+<option><![CDATA[Banana]]></option>
+<producer><![CDATA[Pharma First]]></producer>
+<group><![CDATA[Nahrungsergänzung]]></group>
+<imagedescription><![CDATA[Whey Best, Banana (Krustenviech)]]></imagedescription>
+</description>
+</item>
+<item>
+<id>81005</id>
+<markedfordeletion>0</markedfordeletion>
+<thumbsrc><![CDATA[]]></thumbsrc>
+<foodrank>0.8872</foodrank>
+<ratings_num>0</ratings_num>
+<ratings_avg_perc>0</ratings_avg_perc>
+<producerid>331</producerid>
+<groupid>111</groupid>
+<productcode_ean><![CDATA[4044782302514]]></productcode_ean>
+<datasource>8</datasource>
+<data>
+<amount>100</amount>
+<amount_measuring_system><![CDATA[Mass (gram)]]></amount_measuring_system>
+<aggregate_state><![CDATA[solid]]></aggregate_state>
+<kj>1616</kj>
+<kcal>386</kcal>
+<fat_gram>4.4</fat_gram>
+<fat_sat_gram>-1</fat_sat_gram>
+<kh_gram>6.8</kh_gram>
+<protein_gram>80</protein_gram>
+<df_gram>0</df_gram>
+<water_gram>0</water_gram>
+<alcohol_gram>0</alcohol_gram>
+<v_a_mg></v_a_mg>
+<v_b1_mg></v_b1_mg>
+<v_b2_mg></v_b2_mg>
+<v_b6_mg></v_b6_mg>
+<v_b12_mg></v_b12_mg>
+<v_c_mg></v_c_mg>
+<v_d_mg></v_d_mg>
+<v_e_mg></v_e_mg>
+<m_eisen_mg></m_eisen_mg>
+<m_calcium_mg></m_calcium_mg>
+<m_magnesium_mg></m_magnesium_mg>
+<m_natrium_mg></m_natrium_mg>
+<m_zink_mg></m_zink_mg>
+<m_kupfer_mg></m_kupfer_mg>
+<m_schwefel_mg></m_schwefel_mg>
+<m_mangan_mg></m_mangan_mg>
+<m_chlor_mg></m_chlor_mg>
+<m_fluor_mg></m_fluor_mg>
+<m_kalium_mg></m_kalium_mg>
+<m_phosphor_mg></m_phosphor_mg>
+</data>
+<servings>
+<serving>
+<serving_id>160112</serving_id>
+<name><![CDATA[100 g]]></name>
+<weight_gram>100</weight_gram>
+</serving>
+<serving>
+<serving_id>160113</serving_id>
+<name><![CDATA[Messbecher]]></name>
+<weight_gram>30</weight_gram>
+</serving>
+</servings>
+<content>
+</content>
+<description>
+<name><![CDATA[Premium Whey]]></name>
+<option><![CDATA[Fresh-Banana]]></option>
+<producer><![CDATA[Weider]]></producer>
+<group><![CDATA[Nahrungsergänzung]]></group>
+<imagedescription><![CDATA[ ()]]></imagedescription>
+</description>
+</item>
+<item>
+<id>154635</id>
+<markedfordeletion>0</markedfordeletion>
+<thumbsrc><![CDATA[]]></thumbsrc>
+<foodrank>0.8483</foodrank>
+<ratings_num>0</ratings_num>
+<ratings_avg_perc>0</ratings_avg_perc>
+<producerid>331</producerid>
+<groupid>111</groupid>
+<productcode_ean><![CDATA[]]></productcode_ean>
+<datasource>8</datasource>
+<data>
+<amount>100</amount>
+<amount_measuring_system><![CDATA[Mass (gram)]]></amount_measuring_system>
+<aggregate_state><![CDATA[solid]]></aggregate_state>
+<kj>1683</kj>
+<kcal>402</kcal>
+<fat_gram>5.9</fat_gram>
+<fat_sat_gram>-1</fat_sat_gram>
+<kh_gram>7.2</kh_gram>
+<protein_gram>80</protein_gram>
+<df_gram>-1</df_gram>
+<water_gram>0</water_gram>
+<alcohol_gram>0</alcohol_gram>
+<v_a_mg></v_a_mg>
+<v_b1_mg></v_b1_mg>
+<v_b2_mg></v_b2_mg>
+<v_b6_mg></v_b6_mg>
+<v_b12_mg></v_b12_mg>
+<v_c_mg></v_c_mg>
+<v_d_mg></v_d_mg>
+<v_e_mg></v_e_mg>
+<m_eisen_mg></m_eisen_mg>
+<m_calcium_mg></m_calcium_mg>
+<m_magnesium_mg></m_magnesium_mg>
+<m_natrium_mg></m_natrium_mg>
+<m_zink_mg></m_zink_mg>
+<m_kupfer_mg></m_kupfer_mg>
+<m_schwefel_mg></m_schwefel_mg>
+<m_mangan_mg></m_mangan_mg>
+<m_chlor_mg></m_chlor_mg>
+<m_fluor_mg></m_fluor_mg>
+<m_kalium_mg></m_kalium_mg>
+<m_phosphor_mg></m_phosphor_mg>
+</data>
+<servings>
+<serving>
+<serving_id>300934</serving_id>
+<name><![CDATA[1 Portion]]></name>
+<weight_gram>30</weight_gram>
+</serving>
+<serving>
+<serving_id>300935</serving_id>
+<name><![CDATA[100 g]]></name>
+<weight_gram>100</weight_gram>
+</serving>
+</servings>
+<content>
+</content>
+<description>
+<name><![CDATA[Gold Whey Protein]]></name>
+<option><![CDATA[Banana Split]]></option>
+<producer><![CDATA[Weider]]></producer>
+<group><![CDATA[Nahrungsergänzung]]></group>
+<imagedescription><![CDATA[ ()]]></imagedescription>
+</description>
+</item>
+<item>
+<id>163596</id>
+<markedfordeletion>0</markedfordeletion>
+<thumbsrc><![CDATA[]]></thumbsrc>
+<foodrank>0.8083</foodrank>
+<ratings_num>0</ratings_num>
+<ratings_avg_perc>0</ratings_avg_perc>
+<producerid>527</producerid>
+<groupid>111</groupid>
+<productcode_ean><![CDATA[]]></productcode_ean>
+<datasource>8</datasource>
+<data>
+<amount>100</amount>
+<amount_measuring_system><![CDATA[Mass (gram)]]></amount_measuring_system>
+<aggregate_state><![CDATA[solid]]></aggregate_state>
+<kj>1633</kj>
+<kcal>390</kcal>
+<fat_gram>5</fat_gram>
+<fat_sat_gram>3</fat_sat_gram>
+<kh_gram>7.1</kh_gram>
+<sugar_gram>4.5</sugar_gram>
+<protein_gram>75.5</protein_gram>
+<df_gram>1.5</df_gram>
+<water_gram>0</water_gram>
+<alcohol_gram>0</alcohol_gram>
+<v_a_mg></v_a_mg>
+<v_b1_mg>3.30</v_b1_mg>
+<v_b2_mg>0.01</v_b2_mg>
+<v_b6_mg>4.20</v_b6_mg>
+<v_b12_mg>0.009000</v_b12_mg>
+<v_c_mg>240.00</v_c_mg>
+<v_d_mg></v_d_mg>
+<v_e_mg>36.00</v_e_mg>
+<m_eisen_mg></m_eisen_mg>
+<m_calcium_mg>440.00</m_calcium_mg>
+<m_magnesium_mg></m_magnesium_mg>
+<m_natrium_mg>200.00</m_natrium_mg>
+<m_zink_mg></m_zink_mg>
+<m_kupfer_mg></m_kupfer_mg>
+<m_schwefel_mg></m_schwefel_mg>
+<m_mangan_mg></m_mangan_mg>
+<m_chlor_mg></m_chlor_mg>
+<m_fluor_mg></m_fluor_mg>
+<m_kalium_mg>535.0</m_kalium_mg>
+<m_phosphor_mg></m_phosphor_mg>
+</data>
+<servings>
+<serving>
+<serving_id>317829</serving_id>
+<name><![CDATA[1 Portion]]></name>
+<weight_gram>30</weight_gram>
+</serving>
+<serving>
+<serving_id>317830</serving_id>
+<name><![CDATA[100 g]]></name>
+<weight_gram>100</weight_gram>
+</serving>
+</servings>
+<content>
+</content>
+<description>
+<name><![CDATA[Extreme Whey Deluxe]]></name>
+<option><![CDATA[Banana Cream]]></option>
+<producer><![CDATA[Body Attack]]></producer>
+<group><![CDATA[Nahrungsergänzung]]></group>
+<imagedescription><![CDATA[ ()]]></imagedescription>
+</description>
+</item>
+<item>
+<id>62424</id>
+<markedfordeletion>0</markedfordeletion>
+<thumbsrc><![CDATA[http://fddb.info/static/db/204/E7HLO0AB7QNMB2Y8VBC5LJWC_205x136.jpg]]></thumbsrc>
+<foodrank>0.6162</foodrank>
+<ratings_num>0</ratings_num>
+<ratings_avg_perc>0</ratings_avg_perc>
+<producerid>30</producerid>
+<groupid>37</groupid>
+<productcode_ean><![CDATA[]]></productcode_ean>
+<datasource>8</datasource>
+<data>
+<amount>100</amount>
+<amount_measuring_system><![CDATA[Mass (gram)]]></amount_measuring_system>
+<aggregate_state><![CDATA[solid]]></aggregate_state>
+<kj>440</kj>
+<kcal>105</kcal>
+<fat_gram>2</fat_gram>
+<fat_sat_gram>-1</fat_sat_gram>
+<kh_gram>13</kh_gram>
+<sugar_gram>12</sugar_gram>
+<protein_gram>6.6</protein_gram>
+<df_gram>0.01</df_gram>
+<water_gram>0</water_gram>
+<alcohol_gram>0</alcohol_gram>
+<v_a_mg></v_a_mg>
+<v_b1_mg></v_b1_mg>
+<v_b2_mg></v_b2_mg>
+<v_b6_mg></v_b6_mg>
+<v_b12_mg></v_b12_mg>
+<v_c_mg></v_c_mg>
+<v_d_mg></v_d_mg>
+<v_e_mg></v_e_mg>
+<m_eisen_mg></m_eisen_mg>
+<m_calcium_mg></m_calcium_mg>
+<m_magnesium_mg></m_magnesium_mg>
+<m_natrium_mg></m_natrium_mg>
+<m_zink_mg></m_zink_mg>
+<m_kupfer_mg></m_kupfer_mg>
+<m_schwefel_mg></m_schwefel_mg>
+<m_mangan_mg></m_mangan_mg>
+<m_chlor_mg></m_chlor_mg>
+<m_fluor_mg></m_fluor_mg>
+<m_kalium_mg></m_kalium_mg>
+<m_phosphor_mg></m_phosphor_mg>
+</data>
+<servings>
+<serving>
+<serving_id>124022</serving_id>
+<name><![CDATA[100 g]]></name>
+<weight_gram>100</weight_gram>
+</serving>
+<serving>
+<serving_id>124023</serving_id>
+<name><![CDATA[1 kleiner Becher]]></name>
+<weight_gram>50</weight_gram>
+</serving>
+</servings>
+<content>
+</content>
+<description>
+<name><![CDATA[FruchtZwerge]]></name>
+<option><![CDATA[Banana, Erdbeere, Apfel]]></option>
+<producer><![CDATA[Danone]]></producer>
+<group><![CDATA[Joghurt]]></group>
+<imagedescription><![CDATA[FruchtZwerge, Banana, Erdbeere, Apfel (sa02kl)]]></imagedescription>
+</description>
+</item>
+<item>
+<id>91320</id>
+<markedfordeletion>0</markedfordeletion>
+<thumbsrc><![CDATA[http://fddb.info/static/db/980/5BPA5FSB3RQ33OB35O0GMKPE_205x136.jpg]]></thumbsrc>
+<foodrank>0.5656</foodrank>
+<ratings_num>0</ratings_num>
+<ratings_avg_perc>0</ratings_avg_perc>
+<producerid>580</producerid>
+<groupid>40</groupid>
+<productcode_ean><![CDATA[]]></productcode_ean>
+<datasource>8</datasource>
+<data>
+<amount>100</amount>
+<amount_measuring_system><![CDATA[Volume (ml)]]></amount_measuring_system>
+<aggregate_state><![CDATA[fluid]]></aggregate_state>
+<kj>519</kj>
+<kcal>124</kcal>
+<fat_gram>5.6</fat_gram>
+<fat_sat_gram>-1</fat_sat_gram>
+<kh_gram>15.8</kh_gram>
+<sugar_gram>15</sugar_gram>
+<protein_gram>1.7</protein_gram>
+<df_gram>0.4</df_gram>
+<water_gram>70</water_gram>
+<alcohol_gram>0</alcohol_gram>
+<v_a_mg></v_a_mg>
+<v_b1_mg></v_b1_mg>
+<v_b2_mg></v_b2_mg>
+<v_b6_mg></v_b6_mg>
+<v_b12_mg></v_b12_mg>
+<v_c_mg></v_c_mg>
+<v_d_mg></v_d_mg>
+<v_e_mg></v_e_mg>
+<m_eisen_mg></m_eisen_mg>
+<m_calcium_mg></m_calcium_mg>
+<m_magnesium_mg></m_magnesium_mg>
+<m_natrium_mg></m_natrium_mg>
+<m_zink_mg></m_zink_mg>
+<m_kupfer_mg></m_kupfer_mg>
+<m_schwefel_mg></m_schwefel_mg>
+<m_mangan_mg></m_mangan_mg>
+<m_chlor_mg></m_chlor_mg>
+<m_fluor_mg></m_fluor_mg>
+<m_kalium_mg></m_kalium_mg>
+<m_phosphor_mg></m_phosphor_mg>
+</data>
+<servings>
+<serving>
+<serving_id>179844</serving_id>
+<name><![CDATA[100 g]]></name>
+<weight_gram>100</weight_gram>
+</serving>
+<serving>
+<serving_id>179845</serving_id>
+<name><![CDATA[1 Sch&uuml;sselchen]]></name>
+<weight_gram>200</weight_gram>
+</serving>
+</servings>
+<content>
+</content>
+<description>
+<name><![CDATA[Banana Split]]></name>
+<option><![CDATA[]]></option>
+<producer><![CDATA[Grandessa]]></producer>
+<group><![CDATA[Speiseeis]]></group>
+<imagedescription><![CDATA[Grandessa, Banana Split (subtrahierer)]]></imagedescription>
+</description>
+</item>
+</result>

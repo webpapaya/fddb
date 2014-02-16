@@ -3,6 +3,8 @@ require 'net/http'
 require 'rexml/document'
 require 'nori'
 
+require_relative 'fddb/parser'
+
 
 module FDDB
   class API
@@ -44,7 +46,6 @@ module FDDB
         throw('undefined search type')
       end
 
-
       uri.query = URI.encode_www_form params
       puts uri
       Net::HTTP.get uri
@@ -53,9 +54,11 @@ module FDDB
 
 
   class Item
+    include FDDB::Parser
+
     def initialize (xml_string)
-      @item = parse xml_string
-      puts @item
+      @item = (parse xml_string)['result']['item'] if xml_string.class == String
+      @item = xml_string if xml_string.class == Hash
     end
 
     # returns the ingredients to an given element
@@ -79,10 +82,28 @@ module FDDB
     def search_ingredient (search)
       get_ingredients.select {| key, value | key.to_s.match(/^#{search}/)}
     end
+  end
 
-    def parse (xml_string)
-      parser = Nori.new
-      parser.parse(xml_string)['result']['item']
+  class Items
+    include FDDB::Parser
+    def initialize (xml_data)
+      create_items((parse xml_data)['result']['item'])
+    end
+
+    def get_ingredients (query = nil)
+      result = []
+      @items.each do |item|
+        result << (item.get_ingredients query)
+      end
+      result
+    end
+
+    private
+    def create_items items
+      @items = []
+      items.each do | item |
+          @items << (Item.new item)
+      end
     end
   end
 end
