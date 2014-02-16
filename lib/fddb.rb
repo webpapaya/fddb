@@ -1,23 +1,25 @@
 require "fddb/version"
 require 'net/http'
+require 'rexml/document'
+require 'nori'
 
 
 module FDDB
   class API
-    def initialize api_key, lang = 'de'
+    def initialize api_key, lang = 'de', format= :json
       @api_key = api_key
       @lang = lang
-      @base_url = 'http://fddb.info/api/v8/'
+      @base_url = 'http://fddb.info/api/v8'
+      @format  =  format
     end
 
     def get_item (query)
-      make_http_request :item, query
+      response = make_http_request :item, query
     end
 
     def search (query)
       make_http_request :search, query
     end
-
 
     private
     # makes an http_request to fddb database
@@ -42,8 +44,45 @@ module FDDB
         throw('undefined search type')
       end
 
+
       uri.query = URI.encode_www_form params
+      puts uri
       Net::HTTP.get uri
+    end
+  end
+
+
+  class Item
+    def initialize (xml_string)
+      @item = parse xml_string
+      puts @item
+    end
+
+    # returns the ingredients to an given element
+    # available filters are (:minerals, :vitamines, :general)
+    def get_ingredients (query = nil)
+      return @item['data'] if query.nil?
+
+      case query
+        when :minerals
+          search_ingredient 'm'
+        when :vitamins
+          search_ingredient 'v'
+        when :general
+          search_ingredient '(?!(a|l)).'
+        else
+          nil
+       end
+    end
+
+    private
+    def search_ingredient (search)
+      get_ingredients.select {| key, value | key.to_s.match(/^#{search}/)}
+    end
+
+    def parse (xml_string)
+      parser = Nori.new
+      parser.parse(xml_string)['result']['item']
     end
   end
 end

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<result>
+<item>
+<id>164667</id>
+<markedfordeletion>0</markedfordeletion>
+<thumbsrc><![CDATA[]]></thumbsrc>
+<foodrank>1.5227</foodrank>
+<ratings_num>0</ratings_num>
+<ratings_avg_perc>0</ratings_avg_perc>
+<producerid>1134</producerid>
+<groupid>111</groupid>
+<productcode_ean><![CDATA[4250519600352]]></productcode_ean>
+<datasource>8</datasource>
+<data>
+<amount>100</amount>
+<amount_measuring_system><![CDATA[Volume (ml)]]></amount_measuring_system>
+<aggregate_state><![CDATA[fluid]]></aggregate_state>
+<kj>1599</kj>
+<kcal>382</kcal>
+<fat_gram>1</fat_gram>
+<fat_sat_gram>-1</fat_sat_gram>
+<kh_gram>2</kh_gram>
+<protein_gram>89</protein_gram>
+<df_gram>-1</df_gram>
+<water_gram>0</water_gram>
+<alcohol_gram>0</alcohol_gram>
+<v_a_mg></v_a_mg>
+<v_b1_mg></v_b1_mg>
+<v_b2_mg></v_b2_mg>
+<v_b6_mg></v_b6_mg>
+<v_b12_mg></v_b12_mg>
+<v_c_mg></v_c_mg>
+<v_d_mg></v_d_mg>
+<v_e_mg></v_e_mg>
+<m_eisen_mg></m_eisen_mg>
+<m_calcium_mg></m_calcium_mg>
+<m_magnesium_mg></m_magnesium_mg>
+<m_natrium_mg></m_natrium_mg>
+<m_zink_mg></m_zink_mg>
+<m_kupfer_mg></m_kupfer_mg>
+<m_schwefel_mg></m_schwefel_mg>
+<m_mangan_mg></m_mangan_mg>
+<m_chlor_mg></m_chlor_mg>
+<m_fluor_mg></m_fluor_mg>
+<m_kalium_mg></m_kalium_mg>
+<m_phosphor_mg></m_phosphor_mg>
+</data>
+<servings>
+<serving>
+<serving_id>319883</serving_id>
+<name><![CDATA[1 Portion]]></name>
+<weight_gram>30</weight_gram>
+</serving>
+<serving>
+<serving_id>319884</serving_id>
+<name><![CDATA[1 Glas]]></name>
+<weight_gram>200</weight_gram>
+</serving>
+</servings>
+<content>
+</content>
+<description>
+<name><![CDATA[Iso-Whey Hardcore]]></name>
+<option><![CDATA[Lemon Cake]]></option>
+<producer><![CDATA[ESN]]></producer>
+<group><![CDATA[Nahrungsergänzung]]></group>
+<imagedescription><![CDATA[ ()]]></imagedescription>
+</description>
+</item>
+</result>

@@ -1,6 +1,6 @@
 # Fddb
 
-TODO: Write a gem description
+This gem helps to get data from the fddb.info database
 
 ## Installation
 
