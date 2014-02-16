@@ -33,8 +33,15 @@ module FDDB
       params['apikey'] ||= @api_key
       params['lang'] ||= @lang
 
-      uri =  URI("#{@base_url}/item/id_#{query}.xml") if type == :item
-      uri =  URI("#{@base_url}/item/id_#{query}.xml") if type == :item
+      if type == :item
+        uri =  URI("#{@base_url}/item/id_#{query}.xml")
+      elsif type == :search
+        uri = uri =  URI("#{@base_url}/search/item.xml")
+        params['q'] = query
+      else
+        throw('undefined search type')
+      end
+
       uri.query = URI.encode_www_form params
       Net::HTTP.get uri
     end
