@@ -1,6 +1,6 @@
-# Fddb
+# fddb.info
 
-This gem helps to get data from the fddb.info database
+This gem is an implementation of the fddb.info API to get food related information. This gem is currently under development and will be available soon!
 
 ## Installation
 
