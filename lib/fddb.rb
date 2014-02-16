@@ -20,7 +20,7 @@ module FDDB
     end
 
     def search (query)
-      make_http_request :search, query
+      response = make_http_request :search, query
     end
 
     private
@@ -47,7 +47,7 @@ module FDDB
       end
 
       uri.query = URI.encode_www_form params
-      puts uri
+
       Net::HTTP.get uri
     end
   end

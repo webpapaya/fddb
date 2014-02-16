@@ -19,7 +19,7 @@ module FDDB
     def create_items items
       @items = []
       items.each do | item |
-        @items << (Item.new item)
+        @items << (Item.init item)
       end
     end
   end

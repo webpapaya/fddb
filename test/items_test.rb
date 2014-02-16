@@ -25,4 +25,10 @@ class Items_Test < MiniTest::Test
       assert item.has_key? ('v_e_mg')
     end
   end
+
+  def test_item_error
+    file = File.read('./sample_error.xml')
+    error_item = FDDB::Item.init file
+    assert_nil error_item, "error is nil"
+  end
 end
