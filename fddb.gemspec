@@ -5,7 +5,7 @@ require 'fddb/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "fddb"
-  spec.version       = Fddb::VERSION
+  spec.version       = FDDB::VERSION
   spec.authors       = ["thomas mayrhofer"]
   spec.email         = ["thomas@mayrhofer.at"]
   spec.description   = %q{TODO: Write a gem description}
