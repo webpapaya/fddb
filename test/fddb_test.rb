@@ -13,7 +13,9 @@ class FDDB_TEST < MiniTest::Test
   end
 
   def test_http_request
-    unless @fddb.send(:make_http_request, :item, @id) =~ /error/
+    if @fddb.send(:make_http_request, :item, @id) =~ /error/
+      puts "error api limit exceeded"
+    else
       assert @fddb.send(:make_http_request, :item, @id).class == String
       assert @fddb.send(:make_http_request, :item, @id, 'apikey' => 1, 'lang' => 'en').class == String
       assert @fddb.send(:make_http_request, :item, @id, 'apikey' => 1) =~ /API Key invalid or not given./
@@ -22,9 +24,5 @@ class FDDB_TEST < MiniTest::Test
       assert @fddb.send(:make_http_request, :search, 'banana',  'apikey' => 1) =~ /API Key invalid or not given./
       assert @fddb.send(:make_http_request, :search, 'banana').class == String
     end
-  end
-
-  def test_api_limit
-    refute @fddb.send(:make_http_request, :search, 'banana') =~ /API Limit exceeded!/, "api limit exceeded"
   end
 end
