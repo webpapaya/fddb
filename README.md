@@ -1,6 +1,17 @@
 # fddb.info
 
-This gem is an implementation of the fddb.info API to get food related information. This gem is currently under development and will be available soon!
+This gem is an implementation of the fddb.info API to get food related information.
+
+## Usage
+
+Create an instance of
+   fddb = FDDB::API.new <<'your api key'>>
+   item = fddb.get_item <<item_id>>
+   search = fddb.search <<search_query>>
+
+   item.get_ingredients  # returns all ingredients of the item
+   search.get_ingredients # returns ingredients of all items
+
 
 ## Installation
 
