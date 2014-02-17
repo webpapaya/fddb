@@ -1,4 +1,3 @@
 module FDDB
-  VERSION = "0.0.1"
-  APY_KEY = "xxx"
+  VERSION = "0.1"
 end

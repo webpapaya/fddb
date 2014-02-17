@@ -8,7 +8,7 @@ require_relative 'fddb/items'
 
 module FDDB
   class API
-    def initialize api_key, lang = 'de', format= :json
+    def initialize (api_key, lang = 'de', format= :json)
       @api_key = api_key
       @lang = lang
       @base_url = 'http://fddb.info/api/v8'
@@ -17,10 +17,12 @@ module FDDB
 
     def get_item (query)
       response = make_http_request :item, query
+      FDDB::Item.new response
     end
 
     def search (query)
       response = make_http_request :search, query
+      FDDB::Items.new response
     end
 
     private

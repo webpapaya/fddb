@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["thomas@mayrhofer.at"]
   spec.description   = %q{This gem is an implementation of the fddb.info API to get food related information.}
   spec.summary       = %q{This gem helps to access data from the fddb.info API}
-  spec.homepage      = "thomas.mayrhofer.at"
+  spec.homepage      = "http://thomas.mayrhofer.at"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
