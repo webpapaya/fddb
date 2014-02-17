@@ -5,12 +5,14 @@ This gem is an implementation of the fddb.info API to get food related informati
 ## Usage
 
 Create an instance of
+```
    fddb = FDDB::API.new <<'your api key'>>
    item = fddb.get_item <<item_id>>
    search = fddb.search <<search_query>>
 
    item.get_ingredients  # returns all ingredients of the item
    search.get_ingredients # returns ingredients of all items
+```
 
 
 ## Installation
